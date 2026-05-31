@@ -1,0 +1,4 @@
+{
+  "name": "rallar-app",
+  "scripts": { "build": "echo ok", "dev": "echo ok" }
+}
